@@ -1,4 +1,4 @@
-import { Menu } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import { COMPONENTS } from "../utils/dataConstant";
 import { DesktopSidebar, MobileSidebar } from "./Sidebar";
 
