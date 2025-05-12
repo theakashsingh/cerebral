@@ -25,7 +25,7 @@ export const PRODUCT_SALES_DATA = [
 
 // Authentication credentials
 export const VALID_USERNAME = 'trial';
-export const VALID_PASSWORD = 'assignment123';
+export const VALID_PASSWORD = 'trial123';
 
 // API Endpoints
 export const API_ENDPOINTS = {
